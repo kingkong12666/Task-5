@@ -1,0 +1,10 @@
+.flag{
+	background: url(sprites.png) no-repeat;
+}
+
+.flag{
+	background-position: -705px -8px ;
+	width: 21px;
+	height: 23px;
+}
+
